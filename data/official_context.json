@@ -1,0 +1,45 @@
+{
+  "checked_on": "2026-11-17",
+  "items": [
+    {
+      "category": "Verified as of November 17",
+      "title": "COP31 dates and venue",
+      "event_date": "2026-11-09 to 2026-11-20",
+      "summary": "UNFCCC lists COP31 in Antalya, Türkiye, on November 9–20, 2026.",
+      "url": "https://unfccc.int/cop31",
+      "verification_note": "Official conference information checked November 17. This is logistical context, not an outcome."
+    },
+    {
+      "category": "Verified as of November 17",
+      "title": "Published resumed high-level segment programme",
+      "event_date": "2026-11-17 to 2026-11-18",
+      "summary": "The UNFCCC notice dated November 16 schedules the resumed high-level segment for November 17–18. Publication of the notice is verified; individual interventions and their outcomes are not inferred.",
+      "url": "https://unfccc.int/sites/default/files/resource/message_to_parties_and_observers_final_list_resumed_high_level_segment_cop31.pdf",
+      "verification_note": "Notice read on November 17; source date November 16, 2026."
+    },
+    {
+      "category": "Scheduled for November 20",
+      "title": "Final Negotiations",
+      "event_date": "2026-11-20",
+      "summary": "The Presidency thematic programme lists Day 12 as Final Negotiations. Timing and completion remain subject to the negotiations.",
+      "url": "https://cop31.tr/thematic-days",
+      "verification_note": "Official indexed programme retrieved November 17; direct page access timed out. Recheck the live programme before publication."
+    },
+    {
+      "category": "Scheduled for November 20",
+      "title": "Closing plenaries",
+      "event_date": "2026-11-20",
+      "summary": "The secretariat planning note envisages COP31, CMP21 and CMA8 closing plenaries on November 20. This is a preliminary organizational scenario, not confirmation of final adoption.",
+      "url": "https://unfccc.int/sites/default/files/resource/SBI2026_04_adv.pdf",
+      "verification_note": "FCCC/SBI/2026/4, March 30, 2026, paragraph 10. Read November 17."
+    },
+    {
+      "category": "Scheduled for November 20",
+      "title": "Connect To Funds — Green Zone",
+      "event_date": "2026-11-20",
+      "summary": "The Presidency programme lists Finance and Incentives Day / Connect To Funds, 10:00–17:00 Antalya time (04:00–11:00 Brasília). No funding delivery is inferred.",
+      "url": "https://cop31.tr/green-zone",
+      "verification_note": "Official indexed programme retrieved November 17; direct page access timed out. Schedule may change."
+    }
+  ]
+}
